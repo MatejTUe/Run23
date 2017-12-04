@@ -1,0 +1,15 @@
+{
+  "android": {
+    "background_image": "runhome.jpg",
+    "bg_type": "image"
+  },
+  "background_image": "",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "sd2e2cd1ae28462aad1ce07b1878ce7b",
+  "wType": "FlexContainer"
+}
