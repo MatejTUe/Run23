@@ -37,7 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "Image0c4591dda62eb46",
-        "Camera0c3acb5460e2344"
+        "Camera0",
+        "Image0"
     ],
     "clipbounds": true,
     "containerweight": 100,
