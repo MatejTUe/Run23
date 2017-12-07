@@ -1,0 +1,30 @@
+{
+    "AS_Label_ce1766f75c78437386569b8d7abbc318": {
+        "id": "AS_Label_ce1766f75c78437386569b8d7abbc318",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmRunning",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e645bf7c0ae54fa0a4942293abcb6f2b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i7c8684f13e6468d848d0d9046fd3c75",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.currentSpeed.text = speed;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

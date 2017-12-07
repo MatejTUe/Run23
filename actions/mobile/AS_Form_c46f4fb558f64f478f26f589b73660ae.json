@@ -1,0 +1,24 @@
+{
+    "AS_Form_c46f4fb558f64f478f26f589b73660ae": {
+        "id": "AS_Form_c46f4fb558f64f478f26f589b73660ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRunning",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e645bf7c0ae54fa0a4942293abcb6f2b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g8a21fe2744c4383850e02abae88908d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.location.watchPosition(successcallback1, positionoptions);\n// kony.timer.schedule(\"myTimer\", measureSpeed, 1, true);\nthis.view.currentSpeed.text = speed;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

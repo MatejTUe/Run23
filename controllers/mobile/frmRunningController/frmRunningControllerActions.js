@@ -6,5 +6,15 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("frmHome");
         ntf.navigate();
+    },
+    AS_Form_c46f4fb558f64f478f26f589b73660ae: function AS_Form_c46f4fb558f64f478f26f589b73660ae(eventobject) {
+        var self = this;
+        kony.location.watchPosition(successcallback1, positionoptions);
+        // kony.timer.schedule("myTimer", measureSpeed, 1, true);
+        this.view.currentSpeed.text = speed;
+    },
+    AS_Label_ce1766f75c78437386569b8d7abbc318: function AS_Label_ce1766f75c78437386569b8d7abbc318(eventobject, x, y) {
+        var self = this;
+        this.view.currentSpeed.text = speed;
     }
 });

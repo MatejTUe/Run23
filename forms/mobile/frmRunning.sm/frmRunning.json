@@ -26,8 +26,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0je38da132faa4b",
-        "TextField0a01aabee9ef74e"
+        "FlexContainer0je38da132faa4b"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -80,6 +79,7 @@
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "android",
+    "postshow": "AS_Form_c46f4fb558f64f478f26f589b73660ae",
     "prevDevice": "iPhone6",
     "prevPlatform": "iphone",
     "retainscrollposition": false,

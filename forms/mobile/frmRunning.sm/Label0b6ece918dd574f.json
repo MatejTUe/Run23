@@ -1,5 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
@@ -8,35 +8,37 @@
     },
     "_left_": {
         "type": "string",
-        "value": "63dp"
+        "value": "0dp"
     },
     "_margin_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_padding_": [
-        3,
+        0,
         0,
         0,
         0
     ],
-    "_placeholder_": "",
-    "_skin_": "se238b01dabc4882814aa2900c236af1",
+    "_skin_": "s0961167186b4defadf51defbfd5778a",
     "_text_": "DISTANCE",
     "_top_": {
         "type": "string",
-        "value": "29dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
-    "autocapitalize": "none",
-    "autocomplete": false,
-    "autocorrect": false,
-    "autofilter": false,
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -46,23 +48,27 @@
         "type": "string",
         "value": "12%"
     },
-    "containerheight": "",
-    "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "TextField0c068bc7fb7ba43",
+    "id": "Label0b6ece918dd574f",
     "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
     "isvisible": true,
-    "keyboardtype": "A",
-    "kuid": "be4b300ba2534fbb99a817d9d84ebc08",
-    "mode": "A",
-    "name": "kony.ui.TextBox2",
+    "kuid": "c678c14abea041dbaef90482939f3a69",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "FlexContainer0je38da132faa4b",
     "pf": "frmRunning",
-    "securetextentry": false,
-    "textinputmode": "A",
     "tooltip": "",
-    "viewtype": "default",
-    "wType": "TextField",
+    "wType": "Label",
     "zindex": 1
 }

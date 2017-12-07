@@ -14,11 +14,16 @@
         },
         "language": "js",
         "actions": [{
-            "id": "ADD_SNIPPET__d3f18e4fe3a74fdda44b6e80ac8463c0",
-            "type": "ADD_SNIPPET",
-            "codeSnippet": "example3();",
-            "parentId": null,
-            "callbackType": null
+            "id": "NAVIGATE_TO_FORM___h141de00123543218812453829e603a6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRunning",
+            "formKUID": "e645bf7c0ae54fa0a4942293abcb6f2b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
         }]
     }
 }
